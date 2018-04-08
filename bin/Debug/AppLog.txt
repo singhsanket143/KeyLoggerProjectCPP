@@ -1,0 +1,12 @@
+[08.042018 13:30:52]
+Hook started... Timer started
+
+[08.042018 13:32:38]
+Hook started... Timer started
+
+[08.042018 13:33:55]
+Hook started... Timer started
+
+[08.042018 13:34:31]
+<From SendMain> Return code: 7
+
